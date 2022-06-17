@@ -1,57 +1,7 @@
-<!-- ![Just...]() -->
+# MyAnimeList
 
-<div align='center'>
-
-<h2> WhatsApp-bot </h2>
-  
-<a href='https://github.com/LuckyYam/Whatsapp-bot/releases'>
-  
-<img src='https://img.shields.io/github/v/release/LuckyYam/WhatsApp-bot?color=%231e81b0&label=version&style=for-the-badge'>
-  
-</a>
-  
-<a href='https://github.com/LuckyYam/Whatsapp-bot/blob/master/LICENSE'>
-  
-<img src='https://img.shields.io/github/license/LuckyYam/WhatsApp-bot?color=%231e81b0&style=for-the-badge'>
-  
-</a>
-  
-</div>
-
----
-
-<div align='center'>
-  
-## Deploy
-  
-<a href='https://heroku.com/deploy'>
-  
-<img src='https://www.herokucdn.com/deploy/button.png'>
-  
-</a>
-  
-</div>
-
----
-
-## 💈 Preview
-
- - Fully Modular Design
- - Written in [JavaScript](https://www.javascript.com/)
- - Built with [Baileys](https://github.com/adiwajshing/baileys) (A Lightweight full-featured WhatsApp Library)
- - Database handled via [MongoDB](https://www.mongodb.com/)
- - Self-Auth restoration
-
- ## 📙 Guide
-
- - [Self Hosting Guide](https://github.com/LuckyYam/WhatsApp-bot/blob/master/Self-Hosting-Guide.md)
- - [Heroku Hosting Guide](https://github.com/LuckyYam/WhatsApp-bot/blob/master/Heroku-Hosting-Guide.md)
-
- ## 💪 Contributing
-
- - Feel free to open issues regarding any problems or if you have any feature requests
- - Make sure to follow the ESLint Rules while editing the code and run `yarn format` before opening Pull request
-
- ## 🎐 License
-
- WhatsApp-bot is free and open-source software licensed under the [GNU Affero General Public License v3.0](https://github.com/LuckyYam/WhatsApp-bot/blob/master/LICENSE).
+### 1) HORIMIYA/ BAKEMONOGATARI - [ANIDUB](https://online.anidub.com/anime/full/6326-monstrasskazy-istorii-chudovisch-bakemonogatari-01-15-iz-152009bdrip1080p.html), [JUT.SU](https://jut.su/monogatari-series/)
+![632406](https://telegra.ph/file/01f65470988660a2dcca7.jpg)
+![screen_1540285036459](https://telegra.ph/file/6a580de6703d8143277e1.jpg)
+![screen_1540285035350](https://telegra.ph/file/be8666add8b987d2b3a56.jpg)
+-----------
